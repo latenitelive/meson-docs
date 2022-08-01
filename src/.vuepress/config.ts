@@ -95,7 +95,7 @@ module.exports = {
                     },
                     {
                         text: 'Discord',
-                        link: 'https://meson.network/discord'
+                        link: 'https://discord.gg/z6YfSHDkmS'
                     },
                     {
                         text: 'Telegram',
@@ -150,6 +150,7 @@ module.exports = {
                     children: [
                         '/nodes/README.md',
                         '/nodes/run-meson-nodes.md',
+                        '/nodes/run-meson-arm-nodes.md',
                     ],
                 },
                 {

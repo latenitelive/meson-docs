@@ -28,8 +28,9 @@
     <span><img alt="LayerX Capital" src="./images/sponsors/layerx.svg"></span>
     <span><img alt="Digital Renaisance" src="./images/sponsors/digitalrenaisance.svg"></span>
     <span><img alt="MAVERICK GLOBAL VENTURES" src="./images/sponsors/maverickglobalventures.png"></span>
-    <span><img alt="MAVERICK GLOBAL VENTURES" src="./images/sponsors/avstar.png"></span>
-    <span><img alt="MAVERICK GLOBAL VENTURES" src="./images/sponsors/vespertine.png"></span>
+    <span><img alt="Avstar Capital" src="./images/sponsors/avstar.png"></span>
+    <span><img alt="CERCLE D'ORIENT CAPITAL" src="./images/sponsors/cercledorient.png"></span>
+    <span><img alt="Vespertine Capital" src="./images/sponsors/vespertine.png"></span>
     <span><img alt="Xinjun Liang" src="./images/sponsors/xinjunliang.png"></span>
     <span><img alt="Thomas Bailey" src="./images/sponsors/thomasbailey.png"></span>
     <span><img alt="Suji Yan" src="./images/sponsors/sujiyan.png"></span>
