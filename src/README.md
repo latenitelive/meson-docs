@@ -25,7 +25,7 @@ Extended Reading:
 
 ## How Meson Network Works
 
-![](./images/system.png)
+![](./images/system2.png)
 
 ## Social Media
 
