@@ -62,10 +62,10 @@ module.exports = {
             id: 'G-SEH5LFSBRP',
         }],
         ['@lukemnet/vuepress-plugin-matomo', {
-            siteId: 1,
-            trackerUrl: "http://meson.store/",
-            trackerJsFile: "matomo.js",
-            trackerPhpFile: "matomo.php",
+            siteId: '1',
+            trackerUrl: 'https://meson.store/',
+            trackerJsFile: 'matomo.js',
+            trackerPhpFile: 'matomo.php',
         }],
     ],
 
