@@ -3,110 +3,110 @@
 ## Media
 
 <p class="grid">
-    <span><a target="_blank" href="https://www.bloomberg.com/press-releases/2021-07-01/meson-network-raises-3-5m-from-leading-investors-to-build-bandwidth-marketplace-on-web3/"><img alt="Bloomberg" src="./images/community/bloomberg.svg"></a></span>
-    <span><a target="_blank" href="https://cointelegraph.com/news/blockchain-project-takes-on-cloudflare-and-amazon-web-services/"><img alt="Cointelegraph" src="./images/community/cointelegraph.svg"></a></span>
-    <span><a target="_blank" href="https://messari.io/asset/meson-network"><img alt="Messari" src="./images/community/messari.svg"></a></span>
-    <span><a target="_blank" href="https://www.8btc.com/article/6651320/"><img alt="8BTC" src="./images/community/8btc.svg"></a></span>
-    <span><a target="_blank" href="https://bits.media/pr/meson-network-zapustit-osnovnuyu-set-v-2022-godu/"><img alt="bits.media" src="./images/community/bits.media.svg"></a></span>
-    <span><a target="_blank" href="https://www.coinspeaker.com/meson-network-unveiled-new-product-on-meson-day/"><img alt="Coinspeaker" src="./images/community/coinspeaker.svg"></a></span>
-    <span><a target="_blank" href="https://coin-turk.com/meson-network-2022-gelismeleri"><img alt="coin-turk" src="./images/community/coin-turk.svg"></a></span>
-    <span><a target="_blank" href="https://cryptobriefing.com/meson-network-raises-3-5m-bandwidth-marketplace/"><img alt="Crypto Briefing" src="./images/community/cryptobriefing.svg"></a></span>
-    <span><a target="_blank" href="https://coinreaders.com/38569"><img alt="Coinreaders" src="./images/community/coinreaders.png"></a></span>
-    <span><a target="_blank" href="https://coinquora.com/meson-network-raises-3-5m-in-fundraising-round/"><img alt="CoinQuora" src="./images/community/coinquora.svg"></a></span>
-    <span><a target="_blank" href="https://bravenewcoin.com/insights/cyberconnect-meson-network-supporting-the-social-graph-in-web3/"><img alt="Brave New Coin" src="./images/community/bravenewcoin.svg"></a></span>
-    <span><a target="_blank" href="https://smartliquidity.info/2022/02/24/showme-formed-a-partnership-with-meson-network/"><img alt="smartliquidity" src="./images/community/smartliquidity.svg"></a></span>
-    <span><a target="_blank" href="https://twitter.com/chainnewscom/status/1458371631391420417"><img alt="chainnews" src="./images/community/chainnews.svg"></a></span>
-    <span><a target="_blank" href="https://www.theblockbeats.info/flash/54885"><img alt="BlockBeats" src="./images/community/theblockbeats.svg"></a></span>
-    <span><a target="_blank" href="https://www.failory.com/startups/blockchain#toc-122-meson-network"><img alt="failory" src="./images/community/failory.svg"></a></span>
-    <span><a target="_blank" href="https://zycrypto.com/meson-network-and-rss3-partner-up-to-support-open-information-syndication-protocol-in-web3/"><img alt="zycrypto" src="./images/community/zycrypto.svg"></a></span>
-    <span><a target="_blank" href="https://criptonizando.com/a-meson-network-apresenta-o-seu-novo-produto-no-meson-day-levando-ao-mercado-da-largura-de-banda-uma-gama-mais-amplo-gateway/"><img alt="Coinreaders" src="./images/community/criptonizando.png"></a></span>
+    <span><a target="_blank" href="https://www.bloomberg.com/press-releases/2021-07-01/meson-network-raises-3-5m-from-leading-investors-to-build-bandwidth-marketplace-on-web3/"><img alt="Bloomberg" src="../images/community/bloomberg.svg"></a></span>
+    <span><a target="_blank" href="https://cointelegraph.com/news/blockchain-project-takes-on-cloudflare-and-amazon-web-services/"><img alt="Cointelegraph" src="../images/community/cointelegraph.svg"></a></span>
+    <span><a target="_blank" href="https://messari.io/asset/meson-network"><img alt="Messari" src="../images/community/messari.svg"></a></span>
+    <span><a target="_blank" href="https://www.8btc.com/article/6651320/"><img alt="8BTC" src="../images/community/8btc.svg"></a></span>
+    <span><a target="_blank" href="https://bits.media/pr/meson-network-zapustit-osnovnuyu-set-v-2022-godu/"><img alt="bits.media" src="../images/community/bits.media.svg"></a></span>
+    <span><a target="_blank" href="https://www.coinspeaker.com/meson-network-unveiled-new-product-on-meson-day/"><img alt="Coinspeaker" src="../images/community/coinspeaker.svg"></a></span>
+    <span><a target="_blank" href="https://coin-turk.com/meson-network-2022-gelismeleri"><img alt="coin-turk" src="../images/community/coin-turk.svg"></a></span>
+    <span><a target="_blank" href="https://cryptobriefing.com/meson-network-raises-3-5m-bandwidth-marketplace/"><img alt="Crypto Briefing" src="../images/community/cryptobriefing.svg"></a></span>
+    <span><a target="_blank" href="https://coinreaders.com/38569"><img alt="Coinreaders" src="../images/community/coinreaders.png"></a></span>
+    <span><a target="_blank" href="https://coinquora.com/meson-network-raises-3-5m-in-fundraising-round/"><img alt="CoinQuora" src="../images/community/coinquora.svg"></a></span>
+    <span><a target="_blank" href="https://bravenewcoin.com/insights/cyberconnect-meson-network-supporting-the-social-graph-in-web3/"><img alt="Brave New Coin" src="../images/community/bravenewcoin.svg"></a></span>
+    <span><a target="_blank" href="https://smartliquidity.info/2022/02/24/showme-formed-a-partnership-with-meson-network/"><img alt="smartliquidity" src="../images/community/smartliquidity.svg"></a></span>
+    <span><a target="_blank" href="https://twitter.com/chainnewscom/status/1458371631391420417"><img alt="chainnews" src="../images/community/chainnews.svg"></a></span>
+    <span><a target="_blank" href="https://www.theblockbeats.info/flash/54885"><img alt="BlockBeats" src="../images/community/theblockbeats.svg"></a></span>
+    <span><a target="_blank" href="https://www.failory.com/startups/blockchain#toc-122-meson-network"><img alt="failory" src="../images/community/failory.svg"></a></span>
+    <span><a target="_blank" href="https://zycrypto.com/meson-network-and-rss3-partner-up-to-support-open-information-syndication-protocol-in-web3/"><img alt="zycrypto" src="../images/community/zycrypto.svg"></a></span>
+    <span><a target="_blank" href="https://criptonizando.com/a-meson-network-apresenta-o-seu-novo-produto-no-meson-day-levando-ao-mercado-da-largura-de-banda-uma-gama-mais-amplo-gateway/"><img alt="Coinreaders" src="../images/community/criptonizando.png"></a></span>
     <span>...</span>
 </p>
 
 ## Events
 
-###  The Retrieval Market Summit at LabWeek22 / Oct 13, 2022
+###  The Retrieval Market Summit at LabWeek22 / 13 Ekim, 2022
 
-![](./images/community/events/the-retrieval-market-summit.webp)
+![](../images/community/events/the-retrieval-market-summit.webp)
 
 [Retrieval Markets Summit](https://retrievalmarketssummit.super.site) | [Twitter](https://twitter.com/NetworkMeson/status/1585449891144179712) | [YouTube](https://www.youtube.com/watch?v=Ms0nF9qEnWQ&feature=youtu.be)
 
-###  Devcon VI / Oct 13, 2022
+###  Devcon VI / 13 Ekim, 2022
 
-![](./images/community/events/devcon-vi.webp)
+![](../images/community/events/devcon-vi.webp)
 
 [Devcon](https://blog.ethereum.org/en/2022/10/10/devcon-impact-supporters) | [Twitter](https://twitter.com/SherlockShi_AHA/status/1580236232675954688)
 
-###  Sustainable Blockchain Summit / Oct 9, 2022
+###  Sustainable Blockchain Summit / 9 Ekim, 2022
 
-![](./images/community/events/sustainable-blockchain-summit.jpeg)
+![](../images/community/events/sustainable-blockchain-summit.jpeg)
 
 [Twitter](https://twitter.com/filecoingreen/status/1578829587207065600)
 
 
-###  Token2049 Welcome party / Sept 26, 2022
+###  Token2049 Welcome party / 26 Eylül, 2022
 
-![](./images/community/events/token2049-welcome-party.jpeg)
+![](../images/community/events/token2049-welcome-party.jpeg)
 
 [Twitter](https://twitter.com/allinweb3_io/status/1570670803255169027)
 
-###  TIPIN Summit 2022 / Sept 23, 2022
+###  TIPIN Summit 2022 / 23 Eylül, 2022
 
-![](./images/community/events/tipin.jpg)
+![](../images/community/events/tipin.jpg)
 
 [YouTube](https://youtu.be/uKN1suK0xZI?t=2954) | [Twitter](https://twitter.com/HowardZjh/status/1573212369287008256)
 
-### In New York / June 21, 2022
+### In New York / 21 Haziran, 2022
 
-![](./images/community/events/zonffpartners-bca-nftnyc.jpeg)
+![](../images/community/events/zonffpartners-bca-nftnyc.jpeg)
 
 [Twitter](https://twitter.com/ZonffPartners/status/1537359089159884801) | [YouTube](https://www.youtube.com/watch?v=YQS1C2ey5g0) | [Twitter](https://twitter.com/ZonffPartners/status/1539682340464893952) 
 
-### BUIDLCON / June 10, 2022
+### BUIDLCON / 10 Haziran, 2022
 
-![](./images/community/events/buidlcon-2022.jpeg)
+![](../images/community/events/buidlcon-2022.jpeg)
 
 [#BUIDLCON](https://buidlcon.dev/) | [Twitter](https://twitter.com/BUIDLCON_/status/1524344377140670464)
 
-### Spotlight of Web3.0 | Arweave Infrastructure & Future Stars / May 26, 2022
+### Spotlight of Web3.0 | Arweave Infrastructure & Future Stars / 26 Mayıs, 2022
 
-![](./images/community/events/arweave-infrastructure-future-stars.jpeg)
+![](../images/community/events/arweave-infrastructure-future-stars.jpeg)
 
 [Twitter](https://twitter.com/huobi_incubator/status/1529654579683643394) | [Twitter](https://twitter.com/huobi_incubator/status/1529397537513558016)
 
-### ETH Shanghai Hackathon 2022 / May 20, 2022
+### ETH Shanghai Hackathon 2022 / 20 Mayıs, 2022
 
-![](./images/community/events/ethshanghai2022.jpeg)
+![](../images/community/events/ethshanghai2022.jpeg)
 
 [Hackathon](https://hackathon.ethshanghai.org/) | [Gitcoin](https://gitcoin.co/hackathon/ethshanghai) | [Twitter](https://twitter.com/ETHShanghai2022/status/1526172551990300673)
 
-### DeCompression Happy Hour / April 22, 2022
+### DeCompression Happy Hour / 22 Nisan, 2022
 
-![DeCompression Happy Hour](./images/community/events/decompression-happy-hour.png)
+![DeCompression Happy Hour](../images/community/events/decompression-happy-hour.png)
 
 [Eventbrite](https://www.eventbrite.com/e/decompression-happy-hour-registration-320601717367) | [Twitter](https://twitter.com/MysteriumNet/status/1516363315773153286)
 
-### Nym launch afterparty / Apr 14, 2022
+### Nym launch afterparty / 14 Nisan, 2022
 
-![Nym launch afterparty](./images/community/events/nym-launch-afterparty.png)
+![Nym launch afterparty](../images/community/events/nym-launch-afterparty.png)
 
 [Eventbrite](https://www.eventbrite.co.uk/e/nym-launch-afterparty-tickets-319667041727) | [Twitter](https://twitter.com/nymproject/status/1514666306485825544)
 
-### Web3 Breakfast Networking / Feb 17, 2022
+### Web3 Breakfast Networking / 17 Şubat, 2022
 
-![Web3 Breakfast Networking](./images/community/events/web3-breakfast-networking.jpeg)
+![Web3 Breakfast Networking](../images/community/events/web3-breakfast-networking.jpeg)
 
 [Eventbrite](https://www.eventbrite.com/e/web3-breakfast-networking-tickets-269775274107) | [Twitter](https://twitter.com/realMaskNetwork/status/1493805713939787777)
 
-### DWeb Meetup / Nov 5, 2021
+### DWeb Meetup / 5 Kasım, 2021
 
-![DWeb Meetup](./images/community/events/dweb-meetup.jpeg)
+![DWeb Meetup](../images/community/events/dweb-meetup.jpeg)
 
 [Eventbrite](https://www.eventbrite.com/e/dweb-meetup-nov-2021-centering-respect-trust-and-equity-in-the-dweb-tickets-199517731907) | [Twitter](https://twitter.com/GETDWeb/status/1455345502212349964)
 
-### Web3.0 DEF CON / Aug 8, 2021
+### Web3.0 DEF CON / 8 Ağustos, 2021
 
-![Web3.0 DEF CON](./images/community/events/web3-def-con.jpeg)
+![Web3.0 DEF CON](../images/community/events/web3-def-con.jpeg)
 
 [Eventbrite](https://www.eventbrite.com/e/web-30-def-con-after-mixer-on-crypto-privacy-tickets-166225863031) | [Twitter](https://twitter.com/DoraFactory/status/1424641986833784832)
 
@@ -114,109 +114,109 @@
 
 >Insights About Future. Visit [Content2049](https://content2049.meson.network/)
 
-### Content2049 Founders Forum II / April 28, 2022
+### Content2049 Founders Forum II / 28 Nisan, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-II.jpg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-f2/) | [Twitter](https://twitter.com/NetworkMeson/status/1518974408060071937) | [Spotify](https://open.spotify.com/episode/31XePp1Lb83vE1DZkK3H68) | [YouTube](https://www.youtube.com/watch?v=h5MCjB6MXAk)
 
-### Content2049 Digital Pets in Metaverse / April 22, 2022
+### Content2049 Digital Pets in Metaverse / 22 Nisan, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-15-Digital-Pets-in-Metaverse.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-15/) | [Twitter](https://twitter.com/NetworkMeson/status/1516802808460476417) | [Spotify](https://open.spotify.com/episode/0UEgjc9vZAODezvy4UUQG2) | [YouTube](https://www.youtube.com/watch?v=rte6LRRp9Hk)
 
-### Content2049 Wonder Woman 2022 / April 7, 2022
+### Content2049 Wonder Woman 2022 / 14 Nisan, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-14-Wonder-Woman-2022.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-14/) | [Twitter](https://twitter.com/NetworkMeson/status/1513886964428439558) | [Spotify](https://open.spotify.com/episode/6SOtpyXIf0s1PHWZKGq7Mv) | [YouTube](https://www.youtube.com/watch?v=KP50iYLEcDY)
 
-### Content2049 Founders Forum I / April 7, 2022
+### Content2049 Founders Forum I / 7 Nisan, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-01.png)
 
 [Content2049](https://content2049.meson.network/episodes/episode-f/) | [Twitter](https://twitter.com/NetworkMeson/status/1511213623028314114) | [Spotify](https://open.spotify.com/episode/7r4d0ih1wsLPMbsqQVWsw4) | [YouTube](https://www.youtube.com/watch?v=z_WdhgywGXU)
 
-### Content2049 StepN Firechat / Mar 30, 2022
+### Content2049 StepN Firechat / 30 Mart, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-StepN-Firechat.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-s/) | [Twitter](https://twitter.com/NetworkMeson/status/1508454397319467010) | [Spotify](https://open.spotify.com/episode/4h4S2w7s1lvLl591eLKu4e) | [YouTube](https://www.youtube.com/watch?v=xuxqqIBSBBE)
 
-### Content2049 Killer Tools / Mar 24, 2022
+### Content2049 Killer Tools / 24 Mart, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-11-Killer-Tools.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-11/) | [Twitter](https://twitter.com/NetworkMeson/status/1506245802603077634) | [Spotify](https://open.spotify.com/episode/0MnEJpGbxWZjtP88ZV3nn9) | [YouTube](https://www.youtube.com/watch?v=mEISkvDFxLE)
 
-### Content2049 Wonder Woman I / Mar 17, 2022
+### Content2049 Wonder Woman I / 17 Mart, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-10-Wonder-Woman.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-10/) | [Twitter](https://twitter.com/NetworkMeson/status/1503746527143284738) | [Spotify](https://open.spotify.com/episode/6e8HGh7amiLapdx5IIexmj) | [YouTube](https://www.youtube.com/watch?v=aa5-gdb3Hhk)
 
-### Content2049 Two Sides of Privacy / Mar 10, 2022
+### Content2049 Two Sides of Privacy / 10 Mart, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-9/) | [Twitter](https://twitter.com/NetworkMeson/status/1501443197243117570) | [Spotify](https://open.spotify.com/episode/0XMUbiGI38cLQysWWwzYxp) | [YouTube](https://www.youtube.com/watch?v=XNmY09kb_3U)
 
-### Content2049 Uprising Web3 Storage I / Mar 3, 2022
+### Content2049 Uprising Web3 Storage I / 3 Mart, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-8-Uprising-Web3-Storage-I.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-8/) | [Twitter](https://twitter.com/NetworkMeson/status/1498633973492514819) | [Spotify](https://open.spotify.com/episode/6JO58XwzQaXH6gVUbPvCU6) | [YouTube](https://www.youtube.com/watch?v=FVYE9aF0pKQ)
 
-### Content2049 Best Tech In NFT Marketplace / Feb 24, 2022
+### Content2049 Best Tech In NFT Marketplace / 24 Şubat, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-7/) | [Twitter](https://twitter.com/NetworkMeson/status/1496437253631246340) | [Spotify](https://open.spotify.com/episode/07fzDqbCFDuAaV5apzFVCQ) | [YouTube](https://www.youtube.com/watch?v=BhjLjtQ3O-A)
 
-### Content2049 Crypto x Sustainability / Feb 17, 2022
+### Content2049 Crypto x Sustainability / 17 Şubat, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Crypto-x-Sustainability.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-x/) | [Twitter](https://twitter.com/NetworkMeson/status/1493832341503963138) | [Spotify](https://open.spotify.com/episode/43qIEsWqMez2ytpgZPAkfY) | [YouTube](https://www.youtube.com/watch?v=qFovj98uGWM)
 
-### Content2049 Cross Chain Impact / Feb 10, 2022
+### Content2049 Cross Chain Impact / 10 Şubat, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-6/) | [Twitter](https://twitter.com/NetworkMeson/status/1490997178055426049) | [Spotify](https://open.spotify.com/episode/36BvXhQiYkoW0EoiNIZmZ9) | [YouTube](https://www.youtube.com/watch?v=wObnl437kds)
 
-### Content2049 DAO Challenges / Jan 28, 2022
+### Content2049 DAO Challenges / 28 Ocak, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-5-DAO-Challenges.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-5/) | [Twitter](https://twitter.com/NetworkMeson/status/1486252300851355649) | [Spotify](https://open.spotify.com/episode/3kM5QNVaMMdrh0LBmala32) | [YouTube](https://www.youtube.com/watch?v=s7usdxuJA-c)
 
-### Content2049 Social Network Evolution / Jan 20, 2022
+### Content2049 Social Network Evolution / 20 Ocak, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-4-Social-Network-Evolution.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-4/) | [Twitter](https://twitter.com/NetworkMeson/status/1493832341503963138) | [Spotify](https://open.spotify.com/episode/6uPJ2MYLVPJPzivQ92f2h5) | [YouTube](https://www.youtube.com/watch?v=q-W2VJmoy7Q)
 
-### Content2049 Hurricane DAO or Forever DAO / Jan 13, 2022
+### Content2049 Hurricane DAO or Forever DAO / 13 Ocak, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-3-Hurricane-DAO-or-Forever-DAO.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-3/) | [Twitter](https://twitter.com/NetworkMeson/status/1481206247995351040) | [Spotify](https://open.spotify.com/episode/7Moxp8hT3jVIdzPCWKy22I) | [YouTube](https://www.youtube.com/watch?v=hlAblOpXYac)
 
-### Content2049 Content Renaissance In Web3 / Jan 4, 2022
+### Content2049 Content Renaissance In Web3 / 4 Ocak, 2022
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-2/) | [Twitter](https://twitter.com/NetworkMeson/status/1478014694019383299) | [Spotify](https://open.spotify.com/episode/0rWqumFGJZ3rLhVWrBDavD) | [YouTube](https://www.youtube.com/watch?v=HkbpZ8KndKA)
 
-### Content2049 Green Consensus Scales / Dec 29, 2021
+### Content2049 Green Consensus Scales / 29 Aralık, 2021
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Green-Consensus-Scales.jpeg)
 
 [Content2049](https://content2049.meson.network/episodes/episode-c/) | [Twitter](https://twitter.com/NetworkMeson/status/1475500177813389318) | [Spotify](https://open.spotify.com/episode/4lRaDVWAIgvz2fnRgMb7H7) | [YouTube](https://www.youtube.com/watch?v=j-KZGK12_1Y)
 
-### Content2049 Reinvent Web Content / Dec 16, 2021
+### Content2049 Reinvent Web Content / 16 Aralık, 2021
 
 ![](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg)
 
@@ -231,14 +231,14 @@
 
 ## AMA / Podcasts
 
-### ArCast / Oct 19, 2022
+### ArCast / 19 Ekim, 2022
 
-![](./images/community/ama/arcast-meson.jpeg)
+![](../images/community/ama/arcast-meson.jpeg)
 
 [Twitter](https://twitter.com/ardriveapp/status/1582510096252211200) | [Permacast](https://app.permacast.dev/#/podcasts/rBIQpWeYcf0_reltNXTKjjEUHlQRL9CmZCNcgYjZaao) | [Spotify](https://open.spotify.com/episode/3L3jEp8ieeNL06QbA9rmHU) | [YouTube](https://www.youtube.com/watch?v=8ORPd5iazeI)
 
 
-### Bringing Bandwidth On-Chain Web3 Labs / Oct 18, 2022
+### Bringing Bandwidth On-Chain Web3 Labs / 18 Ekim, 2022
 <br>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/3sKzSG55i14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -252,19 +252,19 @@
 
 ### Arweave  AMA / Feb 15, 2022
 
-![](./images/community/ama/meson-ama.png)
+![](../images/community/ama/meson-ama.png)
 
 [Twitter](https://twitter.com/Ubirajaru/status/1493509124109500417) | [Articles](https://arweave.news/meson-ama/)
 
-### Retrieval Market Builders Demo Day - Meson Network / Feb 2, 2022
+### Retrieval Market Builders Demo Day - Meson Network / 2 Şubat, 2022
 <br>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/GcHmefgmZRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [YouTube](https://www.youtube.com/watch?v=GcHmefgmZRI)
 
-### Founders Firechat Series / Dec 3,  2021
+### Founders Firechat Series / 3 Aralık,  2021
 
-![](./images/community/ama/founders-firechat-series.png)
+![](../images/community/ama/founders-firechat-series.png)
 
 [Twitter](https://twitter.com/YoubiCapital/status/1466520921448013833)
 
@@ -286,56 +286,56 @@
 
 ## Trends
 
-### Binance Research Crypto Industry Map / Nov 14, 2022
+### Binance Research Crypto Industry Map / 14 Kasım, 2022
 
-![Binance Research Crypto Industry Map](./images/community/twitter/binance-research-crypto-industry-map.jpeg)
+![Binance Research Crypto Industry Map](../images/community/twitter/binance-research-crypto-industry-map.jpeg)
 
 [Twitter](https://twitter.com/BinanceResearch/status/1592136915545100289)
 
-### Kryptos Arweave Ecosystem / Mar 24, 2022
+### Kryptos Arweave Ecosystem / 24 Mart, 2022
 
-![Kryptos Arweave Ecosystem](./images/community/twitter/kryptos-arweave-ecosystem.jpeg)
+![Kryptos Arweave Ecosystem](../images/community/twitter/kryptos-arweave-ecosystem.jpeg)
 
 [Twitter](https://twitter.com/kryptos_news/status/1506889040825446402)
 
-### Coin98 Insights Digital Currency Group Portfolio / Mar 20, 2022
+### Coin98 Insights Digital Currency Group Portfolio / 20 Mart, 2022
 
-![Coin98 Insights Digital Currency Group Portfolio](./images/community/twitter/coin98-insights-dcg-portfolio.jpeg)
+![Coin98 Insights Digital Currency Group Portfolio](../images/community/twitter/coin98-insights-dcg-portfolio.jpeg)
 
 [Twitter](https://twitter.com/Coin98Insights/status/1505221387577077760)
 
-### BNB Master Digital Currency Group Portfolio / Jan 14, 2022
+### BNB Master Digital Currency Group Portfolio / 14 Ocak, 2022
 
-![BNB Master Digital Currency Group Portfolio](./images/community/twitter/bnb-master-digital-currency-group-portfolio.jpeg)
+![BNB Master Digital Currency Group Portfolio](../images/community/twitter/bnb-master-digital-currency-group-portfolio.jpeg)
 
 [Twitter](https://twitter.com/Master_BNB/status/1481972607872237571)
 
-### Verto Arweave Ecosystem / Jan 13, 2022
+### Verto Arweave Ecosystem / 13 Ocak, 2022
 
-![Verto Arweave Ecosystem](./images/community/twitter/verto-arweave-ecosystem.jpeg)
+![Verto Arweave Ecosystem](../images/community/twitter/verto-arweave-ecosystem.jpeg)
 
 [Twitter](https://twitter.com/vertoexchange/status/1481349494968971266)
 
-### CoinF Digital Currency Group Portfolio / Nov 20, 2021
+### CoinF Digital Currency Group Portfolio / 20 Kasım, 2021
 
-![CoinF Digital Currency Group Portfolio](./images/community/twitter/coinf-dcg-portfolio.jpeg)
+![CoinF Digital Currency Group Portfolio](../images/community/twitter/coinf-dcg-portfolio.jpeg)
 
 [Twitter](https://twitter.com/CoinF_io/status/1462013496846020608)
 
-### Coinko Digital Currency Group Portfolio / Aug 13, 2021
+### Coinko Digital Currency Group Portfolio / 13 Ağustos, 2021
 
-![Coinko Digital Currency Group Portfolio](./images/community/twitter/coinko-dcg-portfolio.jpeg)
+![Coinko Digital Currency Group Portfolio](../images/community/twitter/coinko-dcg-portfolio.jpeg)
 
 [Twitter](https://twitter.com/Coinkoio/status/1426059374464626689)
 
-### AzerCapital Digital Currency Group Portfolio / Aug 13, 2021
+### AzerCapital Digital Currency Group Portfolio / 13 Ağustos, 2021
 
-![AzerCapital Digital Currency Group Portfolio](./images/community/twitter/azercapital-digital-currency-group-portfolio.jpeg)
+![AzerCapital Digital Currency Group Portfolio](../images/community/twitter/azercapital-digital-currency-group-portfolio.jpeg)
 
 [Twitter](https://twitter.com/AZerCapital_/status/1426063148285513732)
 
-### ICO Analytics Recent Private Fundraising Events Among Blockchain Startups / Jun 28, 2021
+### ICO Analytics Recent Private Fundraising Events Among Blockchain Startups / 28 Haziran, 2021
 
-![ICO Analytics Recent Private Fundraising Events Among Blockchain Startups](./images/community/twitter/recent-private-fundraising-events-among-blockchain-startups.jpeg)
+![ICO Analytics Recent Private Fundraising Events Among Blockchain Startups](../images/community/twitter/recent-private-fundraising-events-among-blockchain-startups.jpeg)
 
 [Twitter](https://twitter.com/ICO_Analytics/status/1409487620384641024)
